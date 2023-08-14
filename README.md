@@ -1,2 +1,2 @@
-# face-react
-Base components
+# face
+React users
