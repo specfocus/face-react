@@ -124,3 +124,12 @@
 [submodule "packages/face-react-grommet"]
 	path = packages/face-react-grommet
 	url = https://github.com/specfocus/face-react-grommet.git
+[submodule "packages/face-react-components"]
+	path = packages/face-react-components
+	url = https://github.com/specfocus/face-react-components.git
+[submodule "packages/face-react-icons"]
+	path = packages/face-react-icons
+	url = https://github.com/specfocus/face-react-icons.git
+[submodule "packages/face-styled-components"]
+	path = packages/face-styled-components
+	url = https://github.com/specfocus/face-styled-components.git
