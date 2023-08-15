@@ -1,0 +1,126 @@
+[submodule "packages/face-react-data-forms"]
+	path = packages/face-react-data-forms
+	url = https://github.com/specfocus/face-react-data-forms.git
+[submodule "packages/face-react-data-grids"]
+	path = packages/face-react-data-grids
+	url = https://github.com/specfocus/face-react-data-grids.git
+[submodule "packages/face-react-data-graphql"]
+	path = packages/face-react-data-graphql
+	url = https://github.com/specfocus/face-react-data-graphql.git
+[submodule "packages/face-react-data-local-storage"]
+	path = packages/face-react-data-local-storage
+	url = https://github.com/specfocus/face-react-data-local-storage.git
+[submodule "packages/face-react-data-actions"]
+	path = packages/face-react-data-actions
+	url = https://github.com/specfocus/face-react-data-actions.git
+[submodule "packages/face-react-data-forms-mui"]
+	path = packages/face-react-data-forms-mui
+	url = https://github.com/specfocus/face-react-data-forms-mui.git
+[submodule "packages/face-react-data-grids-carbon"]
+	path = packages/face-react-data-grids-carbon
+	url = https://github.com/specfocus/face-react-data-grids-carbon.git
+[submodule "packages/face-react-data-grids-mui"]
+	path = packages/face-react-data-grids-mui
+	url = https://github.com/specfocus/face-react-data-grids-mui.git
+[submodule "packages/face-react-data"]
+	path = packages/face-react-data
+	url = https://github.com/specfocus/face-react-data.git
+[submodule "packages/face-react-focus"]
+	path = packages/face-react-focus
+	url = https://github.com/specfocus/face-react-focus.git
+[submodule "packages/face-react-i18n"]
+	path = packages/face-react-i18n
+	url = https://github.com/specfocus/face-react-i18n.git
+[submodule "packages/face-react-i18next"]
+	path = packages/face-react-i18next
+	url = https://github.com/specfocus/face-react-i18next.git
+[submodule "packages/face-react-labs"]
+	path = packages/face-react-labs
+	url = https://github.com/specfocus/face-react-labs.git
+[submodule "packages/face-react-rich-text-mui"]
+	path = packages/face-react-rich-text-mui
+	url = https://github.com/specfocus/face-react-rich-text-mui.git
+[submodule "apps/face-react-mui-demo"]
+	path = apps/face-react-mui-demo
+	url = https://github.com/specfocus/face-react-mui-demo
+[submodule "packages/face-react-labs-mui"]
+	path = packages/face-react-labs-mui
+	url = https://github.com/specfocus/face-react-labs-mui.git
+[submodule "packages/face-react-sprites"]
+	path = packages/face-react-sprites
+	url = https://github.com/specfocus/face-react-sprites.git
+[submodule "apps/face-react-carbon-cra"]
+	path = apps/face-react-carbon-cra
+	url = https://github.com/specfocus/face-react-carbon-cra
+[submodule "packages/face-react-mui"]
+	path = packages/face-react-mui
+	url = https://github.com/specfocus/face-react-mui.git
+[submodule "packages/face-react-i18n-polyglot"]
+	path = packages/face-react-i18n-polyglot
+	url = https://github.com/specfocus/face-react-i18n-polyglot.git
+[submodule "packages/face-react-states"]
+	path = packages/face-react-states
+	url = https://github.com/specfocus/face-react-states.git
+[submodule "packages/face-react-notifications"]
+	path = packages/face-react-notifications
+	url = https://github.com/specfocus/face-react-notifications.git
+[submodule "packages/face-react-navigation-native"]
+	path = packages/face-react-navigation-native
+	url = https://github.com/specfocus/face-react-navigation-native.git
+[submodule "packages/face-react-navigation-dom-next"]
+	path = packages/face-react-navigation-dom-next
+	url = https://github.com/specfocus/face-react-navigation-dom-next.git
+[submodule "packages/face-react-navigation-dom"]
+	path = packages/face-react-navigation-dom
+	url = https://github.com/specfocus/face-react-navigation-dom.git
+[submodule "packages/face-react-navigation"]
+	path = packages/face-react-navigation
+	url = https://github.com/specfocus/face-react-navigation.git
+[submodule "packages/face-react-data-forms-auto"]
+	path = packages/face-react-data-forms-auto
+	url = https://github.com/specfocus/face-react-data-forms-auto.git
+[submodule "packages/face-react-auth"]
+	path = packages/face-react-auth
+	url = https://github.com/specfocus/face-react-auth.git
+[submodule "packages/face-react-carbon"]
+	path = packages/face-react-carbon
+	url = https://github.com/specfocus/face-react-carbon.git
+[submodule "apps/face-react-carbon-demo"]
+	path = apps/face-react-carbon-demo
+	url = https://github.com/specfocus/face-react-carbon-demo.git
+[submodule "packages/face-react-fluentui"]
+	path = packages/face-react-fluentui
+	url = https://github.com/specfocus/face-react-fluentui.git
+[submodule "packages/face-react-data-forms-carbon"]
+	path = packages/face-react-data-forms-carbon
+	url = https://github.com/specfocus/face-react-data-forms-carbon.git
+[submodule "packages/face-react-data-tables"]
+	path = packages/face-react-data-tables
+	url = https://github.com/specfocus/face-react-data-tables.git
+[submodule "apps/face-react-carbon-next"]
+	path = apps/face-react-carbon-next
+	url = https://github.com/specfocus/face-react-carbon-next.git
+[submodule "packages/face-react-glsl"]
+	path = packages/face-react-glsl
+	url = https://github.com/specfocus/face-react-glsl.git
+[submodule "packages/face-react-states-jotai"]
+	path = packages/face-react-states-jotai
+	url = https://github.com/specfocus/face-react-states-jotai.git
+[submodule "packages/face-react-states-recoil"]
+	path = packages/face-react-states-recoil
+	url = https://github.com/specfocus/face-react-states-recoil.git
+[submodule "apps/face-react-mui-next"]
+	path = apps/face-react-mui-next
+	url = https://github.com/specfocus/face-react-mui-next.git
+[submodule "packages/face-react-states-mobx"]
+	path = packages/face-react-states-mobx
+	url = https://github.com/specfocus/face-react-states-mobx.git
+[submodule "packages/face-react-states-zustand"]
+	path = packages/face-react-states-zustand
+	url = https://github.com/specfocus/face-react-states-zustand.git
+[submodule "packages/face-react-states-redux"]
+	path = packages/face-react-states-redux
+	url = https://github.com/specfocus/face-react-states-redux.git
+[submodule "packages/face-react-grommet"]
+	path = packages/face-react-grommet
+	url = https://github.com/specfocus/face-react-grommet.git
