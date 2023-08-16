@@ -1,6 +1,6 @@
-# Styled Components
+# Face React
 
-Base components for styling web applications.
+All we have for react applications.
 
 ## Design Systems
 ![Design Systems](./assets/themes-design-systems.png)
