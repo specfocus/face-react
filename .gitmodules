@@ -136,3 +136,18 @@
 [submodule "packages/face-svg-icons"]
 	path = packages/face-svg-icons
 	url = https://github.com/specfocus/face-svg-icons.git
+[submodule "packages/tsconfig"]
+	path = packages/tsconfig
+	url = https://github.com/specfocus/tsconfig.git
+[submodule "packages/jest-presets"]
+	path = packages/jest-presets
+	url = https://github.com/specfocus/jest-presets.git
+[submodule "packages/eslint-config-custom"]
+	path = packages/eslint-config-custom
+	url = https://github.com/specfocus/eslint-config-custom.git
+[submodule "packages/eslint-config-custom-server"]
+	path = packages/eslint-config-custom-server
+	url = https://github.com/specfocus/eslint-config-custom-server.git
+[submodule "packages/storybook"]
+	path = packages/storybook
+	url = https://github.com/specfocus/storybook.git
