@@ -133,3 +133,6 @@
 [submodule "packages/face-styled-components"]
 	path = packages/face-styled-components
 	url = https://github.com/specfocus/face-styled-components.git
+[submodule "packages/face-svg-icons"]
+	path = packages/face-svg-icons
+	url = https://github.com/specfocus/face-svg-icons.git
